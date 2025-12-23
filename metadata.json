@@ -1,0 +1,8 @@
+{
+  "name": "Vẽ Kiến Trúc AI",
+  "description": "Ứng dụng AI chuyên nghiệp giúp chuyển đổi phác thảo thành phối cảnh 3D và từ phối cảnh sang mặt bằng kiến trúc.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
